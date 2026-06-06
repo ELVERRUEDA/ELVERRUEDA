@@ -73,4 +73,4 @@ Proyecto de gestión de base de datos con Java y SQL Server.
 ## 📫 Contacto
 
 [![GitHub](https://img.shields.io/badge/GitHub-ELVERRUEDA-181717?style=flat&logo=github)](https://github.com/ELVERRUEDA)
-[![Email](https://img.shields.io/badge/Email-segoviapoyo%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:elver.s.rueda.b@gmail.com)
+[![Email](https://img.shields.io/badge/Email-elver.s.rueda.b%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:elver.s.rueda.b@gmail.com)
